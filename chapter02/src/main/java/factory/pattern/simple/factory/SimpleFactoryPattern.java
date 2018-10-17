@@ -1,9 +1,11 @@
 package factory.pattern.simple.factory;
 
 /**
- * @Author: YaboSun
- * @Date: Created in 18-10-17
- * @Description: 简单工厂模式：简单工厂模式严格意义上讲不能说是一个设计模式
+ * 参考： http://www.cnblogs.com/Bobby0322/p/4178412.html
+ * @author YaboSun
+ * @since  Created in 18-10-17
+ *
+ * 简单工厂模式：简单工厂模式严格意义上讲不能说是一个设计模式
  * 因为它不是Gof23种设计模式之一，所以说是一种编程习惯更恰当些
  * 简单模式可以根据参数的不同返回不同类的实例，简单工厂模式专门定义一个类来负责创建其他类的实例
  * 被创建的实例通常都具有共同的父类

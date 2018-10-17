@@ -1,9 +1,10 @@
 package staticfactory.method;
 
 /**
- * @Author: YaboSun
- * @Date: Created in 18-10-17
- * @Description: 对于静态工厂方法的第二个优势不必每次调用时候都创建一个新对象
+ * @author YaboSun
+ * @since  Created in 18-10-17
+ *
+ * 对于静态工厂方法的第二个优势不必每次调用时候都创建一个新对象
  * 这类似Flyweight Pattern(享元模式)，以下代码主要对享元模式进行代码实现以及测试。
  *
  * 面向对象技术可以很好地解决一些灵活性或可扩展性问题，但在很多情况下需要在系统中增加类和对象的个数。

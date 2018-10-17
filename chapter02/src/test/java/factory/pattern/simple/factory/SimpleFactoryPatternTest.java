@@ -3,9 +3,8 @@ package factory.pattern.simple.factory;
 import org.junit.Test;
 
 /**
- * @Author: YaboSun
- * @Date: Created in 18-10-17
- * @Description:
+ * @author YaboSun
+ * @since  Created in 18-10-17
  */
 public class SimpleFactoryPatternTest {
 

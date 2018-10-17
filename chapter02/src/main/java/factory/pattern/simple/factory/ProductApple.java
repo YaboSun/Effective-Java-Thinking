@@ -1,9 +1,8 @@
 package factory.pattern.simple.factory;
 
 /**
- * @Author: YaboSun
- * @Date: Created in 18-10-17
- * @Description:
+ * @author  YaboSun
+ * @since  Created in 18-10-17
  */
 public class ProductApple implements Product {
     public ProductApple() {
