@@ -1,4 +1,4 @@
-package factory.pattern;
+package factory.pattern.factory.method;
 
 /**
  * @Author: YaboSun
