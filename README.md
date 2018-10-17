@@ -1,5 +1,7 @@
 # Effective-Java-Thinking
-阅读《Effective Java》的笔记 以及书中代码的测试  
+1. 阅读《Effective Java》的笔记 
+2. 书中代码测试
+3. 书中提到内容扩展
   
 开发环境如下：  
   
