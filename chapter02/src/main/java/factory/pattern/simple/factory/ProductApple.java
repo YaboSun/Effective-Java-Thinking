@@ -7,6 +7,10 @@ package factory.pattern.simple.factory;
  */
 public class ProductApple implements Product {
     public ProductApple() {
+        this.getProduct();
+    }
+
+    public void getProduct() {
         System.out.println("Product Apple");
     }
 }

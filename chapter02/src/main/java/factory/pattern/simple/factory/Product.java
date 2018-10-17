@@ -6,4 +6,6 @@ package factory.pattern.simple.factory;
  * @Description: 抽象产品角色
  */
 public interface Product {
+    // 通过抽象产品来获取具体的产品
+    void getProduct();
 }
