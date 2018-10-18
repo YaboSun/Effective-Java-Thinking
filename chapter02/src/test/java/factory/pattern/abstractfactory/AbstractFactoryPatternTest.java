@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 public class AbstractFactoryPatternTest {
 
     @Test
-    public static void main(String[] args) {
+    public void main() {
         // 获取形状工厂
         AbstractFactoryPattern shapeFactory = FactoryProducer.getFactory("shape");
 
