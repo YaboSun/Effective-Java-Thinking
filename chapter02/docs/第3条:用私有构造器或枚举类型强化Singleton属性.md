@@ -14,7 +14,7 @@ Singleton是指仅仅被实例化一次的类，Singleton通常被用来代表�
 # 私有构造器，公有静态final域  
 
 代码示例：    
-``      
+```Java      
 public class SingletonWithFinalField {
     public static final SingletonWithFinalField INSTANCE = new SingletonWithFinalField();
 
@@ -31,7 +31,7 @@ public class SingletonWithFinalField {
 
 测试案例：    
   
-``    
+```Java    
 public class SingletonWithFinalFieldTest {
 
     @Test
