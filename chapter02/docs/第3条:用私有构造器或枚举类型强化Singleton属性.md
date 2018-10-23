@@ -27,7 +27,7 @@ public class SingletonWithFinalField {
         System.out.println("This is SingletonWithFinalField method");
     }
 }    
-``  
+```  
 
 测试案例：    
   
@@ -40,7 +40,7 @@ public class SingletonWithFinalFieldTest {
         swff.print();
     }
 }  
-``      
+```      
 由于缺少公有的或者受保护的构造器，可以保证类的全局唯一性，但是有一点，享有特权的客户端可以借助
 AccessibleObject.setAccessible，通过反射机制调用私有构造器（不是很明白，需要后面学习反射）  
 
