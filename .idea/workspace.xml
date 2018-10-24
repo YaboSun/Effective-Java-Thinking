@@ -16,23 +16,13 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="工厂方法模式">
-      <change afterPath="$PROJECT_DIR$/chapter02/docs/第2条:遇到有多个构造器参数时要考虑用构建器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/AddFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/DivFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/MulFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/SubFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/工厂方法模式代码结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/factory/method/FactoryMethodPatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/factory method pattern.png" afterDir="false" />
+    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="syb">
+      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/docs/第一条：考虑用静态工厂方法代替构造器.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/docs/第1条:考虑用静态工厂方法代替构造器.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/FactoryMethodPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/FactoryMethodPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,6 +37,7 @@
     <ignored path="$PROJECT_DIR$/chapter09/target/" />
     <ignored path="$PROJECT_DIR$/chapter10/target/" />
     <ignored path="$PROJECT_DIR$/chapter11/target/" />
+    <ignored path="$PROJECT_DIR$/Thinking-In-Java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +48,36 @@
     <session id="1089130085">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="20" />
-          <entry key="md" value="3" />
-          <entry key="xml" value="15" />
+          <entry key="java" value="69" />
+          <entry key="md" value="4" />
+          <entry key="png" value="2" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="20" />
-          <entry key="Markdown" value="3" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="69" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="15" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -84,17 +85,17 @@
           <entry key="dummy" value="13" />
           <entry key="ft" value="26" />
           <entry key="gitignore" value="31" />
-          <entry key="java" value="1814" />
-          <entry key="txt" value="62" />
-          <entry key="xml" value="9" />
+          <entry key="java" value="5941" />
+          <entry key="txt" value="130" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1814" />
-          <entry key="PLAIN_TEXT" value="106" />
+          <entry key="JAVA" value="5941" />
+          <entry key="PLAIN_TEXT" value="174" />
           <entry key="VTL" value="26" />
-          <entry key="XML" value="9" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -103,84 +104,111 @@
     <favorites_list name="Effective-Java-Thinking" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/FactoryMethodPattern.java">
+        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/DoubleCheckedSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="209">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/factory/method/FactoryMethodPatternTest.java">
+        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/AddFactory.java">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="8" selection-end-column="38" />
+            <state relative-caret-position="22">
+              <caret line="1175" column="33" lean-forward="true" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/SubFactory.java">
+        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="418">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/MulFactory.java">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="110">
+              <caret line="1081" column="51" lean-forward="true" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
+              <folding>
+                <element signature="e#48487#48488#0" expanded="true" />
+                <element signature="e#48531#48532#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/DivFactory.java">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/io/FilenameFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="361">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Add.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Sub.java">
+        <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="209">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Div.java">
+        <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/EnumSingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="95">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,8 +219,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -203,16 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/staticfactory/FactoryMethodPattern.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/staticfactory/FlyweightPattern.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/staticfactory/method/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/FactoryPattern.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/FactoryPattern.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/simple/factory/FactoryPatternTest.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/SimpleFactoryPattern.java" />
         <option value="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/simple/factory/SimpleFactoryPatternTest.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/Product.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/ProductApple.java" />
@@ -229,6 +247,41 @@
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/MulFactory.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/SubFactory.java" />
         <option value="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/factory/method/FactoryMethodPatternTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Read.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Shape.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Rectangle.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Circle.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Square.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Color.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Blue.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Green.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/Red.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/AbstractFactoryPattern.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/abstractfactory/AbstractFactoryPatternTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/java/beans/Student.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/beans/Student.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/java/beans/StudentTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/builder/pattern/Student.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/builder/pattern/StudentBuilder.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/builder/pattern/StudentTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/ArraylistDemo.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/telescoping/constructor/Student.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/telescoping/Student.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/singleton/SingletonWithFinalField.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonWithFinalFieldTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonWithStaticFactoryTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/singleton/SingletonWithStaticFactory.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/singleton/EnumSingletonTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/singleton/EnumSingleton.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/singleton/DoubleCheckedSingleton.java" />
+        <option value="$PROJECT_DIR$/Thinking-In-Java/pom.xml" />
+        <option value="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java" />
+        <option value="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java" />
       </list>
     </option>
   </component>
@@ -262,7 +315,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
     <option name="y" value="-4" />
     <option name="width" value="1920" />
     <option name="height" value="1084" />
@@ -275,6 +327,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,31 +340,25 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -317,48 +366,39 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="dir" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539780197845" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540365648383" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -370,127 +410,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="singleton" />
+      <recent name="builder.pattern" />
+      <recent name="java.beans" />
+      <recent name="factory.pattern.abstractfactory" />
       <recent name="factory.pattern.factory.method" />
-      <recent name="factory.pattern.simple.factory" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter02/src/main/java/beans" />
+      <recent name="$PROJECT_DIR$/chapter02/src/main/resources" />
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/chapter01" />
       <recent name="$PROJECT_DIR$/chapter02/docs" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/chapter02/docs/第一条：考虑用静态工厂方法代替构造器.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="factory" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter02/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -504,47 +445,98 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FactoryMethodPatternTest.createOperation">
-    <configuration name="FactoryMethodPatternTest.createOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter02" />
+  <component name="RunManager" selected="Application.DirList">
+    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.dir.DirList" />
+      <module name="Thinking-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.pattern.factory.method.*" />
+          <option name="PATTERN" value="file.dir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="factory.pattern.factory.method" />
-      <option name="MAIN_CLASS_NAME" value="factory.pattern.factory.method.FactoryMethodPatternTest" />
-      <option name="METHOD_NAME" value="createOperation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumSingletonTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton" />
+      <option name="MAIN_CLASS_NAME" value="singleton.EnumSingletonTest" />
+      <option name="METHOD_NAME" value="print" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactoryPatternTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonWithFinalFieldTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.pattern.simple.factory.*" />
+          <option name="PATTERN" value="singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="factory.pattern.simple.factory" />
-      <option name="MAIN_CLASS_NAME" value="factory.pattern.simple.factory.SimpleFactoryPatternTest" />
-      <option name="METHOD_NAME" value="create" />
+      <option name="PACKAGE_NAME" value="singleton" />
+      <option name="MAIN_CLASS_NAME" value="singleton.SingletonWithFinalFieldTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonWithStaticFactoryTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton" />
+      <option name="MAIN_CLASS_NAME" value="singleton.SingletonWithStaticFactoryTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder.pattern" />
+      <option name="MAIN_CLASS_NAME" value="builder.pattern.StudentTest" />
+      <option name="METHOD_NAME" value="client" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SimpleFactoryPatternTest.create" />
-      <item itemvalue="JUnit.FactoryMethodPatternTest.createOperation" />
+      <item itemvalue="JUnit.StudentTest.client" />
+      <item itemvalue="JUnit.SingletonWithFinalFieldTest.print" />
+      <item itemvalue="JUnit.SingletonWithStaticFactoryTest.print" />
+      <item itemvalue="JUnit.EnumSingletonTest.print" />
+      <item itemvalue="Application.DirList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FactoryMethodPatternTest.createOperation" />
-        <item itemvalue="JUnit.SimpleFactoryPatternTest.create" />
+        <item itemvalue="Application.DirList" />
+        <item itemvalue="JUnit.EnumSingletonTest.print" />
+        <item itemvalue="JUnit.SingletonWithStaticFactoryTest.print" />
+        <item itemvalue="JUnit.SingletonWithFinalFieldTest.print" />
+        <item itemvalue="JUnit.StudentTest.client" />
       </list>
     </recent_temporary>
   </component>
@@ -566,7 +558,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539739324158</updated>
-      <workItem from="1539739328610" duration="22195000" />
+      <workItem from="1539739328610" duration="28351000" />
+      <workItem from="1539845934446" duration="7161000" />
+      <workItem from="1539864634509" duration="75000" />
+      <workItem from="1539865315253" duration="691000" />
+      <workItem from="1539912861713" duration="400000" />
+      <workItem from="1539913522068" duration="148000" />
+      <workItem from="1539929728573" duration="3469000" />
+      <workItem from="1540198534646" duration="1205000" />
+      <workItem from="1540279023399" duration="5749000" />
+      <workItem from="1540291140012" duration="3197000" />
+      <workItem from="1540362368662" duration="3271000" />
     </task>
     <task id="LOCAL-00001" summary="github license">
       <created>1539742825302</created>
@@ -631,58 +633,125 @@
       <option name="project" value="LOCAL" />
       <updated>1539773504133</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="工厂方法模式">
+      <created>1539780319675</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539780319675</updated>
+    </task>
+    <task id="LOCAL-00011" summary="抽象工厂模式">
+      <created>1539784885291</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539784885291</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit changes">
+      <created>1539842318898</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1539842318898</updated>
+    </task>
+    <task id="LOCAL-00013" summary="多个构造器参数解决思路">
+      <created>1539854311147</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1539854311147</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第3条">
+      <created>1539912984980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1539912984980</updated>
+    </task>
+    <task id="LOCAL-00015" summary="syb">
+      <created>1540285655365</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540285655365</updated>
+    </task>
+    <task id="LOCAL-00016" summary="syb">
+      <created>1540294532108</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540294532108</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FactoryPatternTest_create - 2018.10.17 at 16h 52m 49s.xml">
-      <configuration name="FactoryPatternTest.create" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleFactoryPatternTest_create - 2018.10.17 at 17h 02m 07s.xml">
-      <configuration name="SimpleFactoryPatternTest.create" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SimpleFactoryPatternTest_create - 2018.10.17 at 17h 09m 33s.xml">
       <configuration name="SimpleFactoryPatternTest.create" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FactoryMethodPatternTest_createOperation - 2018.10.17 at 20h 40m 49s.xml">
       <configuration name="FactoryMethodPatternTest.createOperation" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AbstractFactoryPatternTest_main - 2018.10.17 at 22h 12m 41s.xml">
+      <configuration name="AbstractFactoryPatternTest.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_test - 2018.10.18 at 16h 31m 30s.xml">
+      <configuration name="StudentTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_test_(1) - 2018.10.18 at 16h 35m 44s.xml">
+      <configuration name="StudentTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_client - 2018.10.18 at 17h 12m 08s.xml">
+      <configuration name="StudentTest.client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonWithFinalFieldTest_print - 2018.10.23 at 16h 37m 20s.xml">
+      <configuration name="SingletonWithFinalFieldTest.print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonWithStaticFactoryTest_print - 2018.10.23 at 16h 52m 49s.xml">
+      <configuration name="SingletonWithStaticFactoryTest.print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonWithStaticFactoryTest_print - 2018.10.23 at 16h 54m 49s.xml">
+      <configuration name="SingletonWithStaticFactoryTest.print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnumSingletonTest_print - 2018.10.23 at 17h 03m 06s.xml">
+      <configuration name="EnumSingletonTest.print" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22195000" />
+    <option name="totallyTimeSpent" value="53717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945712" visible="true" weight="0.24973261" />
-      <window_info id="Structure" order="1" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32899022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961998" visible="true" weight="0.28181818" />
+      <window_info id="Structure" order="1" sideWeight="0.5038002" side_tool="true" weight="0.27540106" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32994652" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49893048" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106955" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32994652" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -693,218 +762,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github license" />
-    <MESSAGE value="commit changes" />
     <MESSAGE value="简单工厂模式" />
     <MESSAGE value="工厂方法模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="工厂方法模式" />
+    <MESSAGE value="抽象工厂模式" />
+    <MESSAGE value="commit changes" />
+    <MESSAGE value="多个构造器参数解决思路" />
+    <MESSAGE value="第3条" />
+    <MESSAGE value="syb" />
+    <option name="LAST_COMMIT_MESSAGE" value="syb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter03/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter05/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter04/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter07/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter08/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter09/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter11/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/引言.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/chapter01.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/abstractfactory/AbstractFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/ProductApple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/ProductOrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/staticfactory/method/FlyweightPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/simple/factory/SimpleFactoryPatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/EnumSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding>
-            <element signature="e#15159#15189#0" expanded="true" />
-            <element signature="e#17261#17291#0" expanded="true" />
-            <element signature="e#17610#17611#0" expanded="true" />
-            <element signature="e#17663#17664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/SimpleFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Mul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Sub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Div.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/DivFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/MulFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/SubFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/FactoryMethodPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/AddFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/docs/第1条:考虑用静态工厂方法代替构造器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -915,10 +794,366 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/factory/method/FactoryMethodPatternTest.java">
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/factorymethod/FactoryMethodPatternTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="437">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/AddFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/SubFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/MulFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/DivFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Div.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/FactoryMethodPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/resources/抽象工厂模式代码结构.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/AbstractFactoryPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="68" lean-forward="true" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Green.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/abstractfactory/AbstractFactoryPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/resources/工厂方法模式代码结构.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/docs/第3条:用私有构造器或枚举类型强化Singleton属性.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/ArraylistDemo.java" />
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="414" column="17" lean-forward="true" selection-start-line="414" selection-start-column="17" selection-end-line="414" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/beans/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/java/beans/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/builder/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/builder/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/builder/StudentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/telescoping/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/SingletonWithFinalField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonWithFinalFieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/SingletonWithStaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonWithStaticFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/EnumSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/DoubleCheckedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/io/FilenameFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="1081" column="51" lean-forward="true" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
+          <folding>
+            <element signature="e#48487#48488#0" expanded="true" />
+            <element signature="e#48531#48532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1175" column="33" lean-forward="true" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -975,11 +1210,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Effective-Java-Thinking</last-edited>
+          <last-edited>Thinking-In-Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -999,7 +1235,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.12</last-edited>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
