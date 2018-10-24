@@ -19,7 +19,7 @@
         <module>chapter09</module>
         <module>chapter10</module>
         <module>chapter11</module>
-        <module>Thinking-In-Java</module>
+        <module>Thinking-in-Java</module>
     </modules>
 
     <dependencies>
