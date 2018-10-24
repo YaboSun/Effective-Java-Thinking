@@ -16,7 +16,7 @@
         <module name="chapter09" />
         <module name="chapter10" />
         <module name="chapter11" />
-        <module name="Thinking-In-Java" />
+        <module name="Thinking-in-Java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

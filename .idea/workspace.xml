@@ -16,13 +16,14 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="syb">
-      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java" afterDir="false" />
+    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,6 +39,7 @@
     <ignored path="$PROJECT_DIR$/chapter10/target/" />
     <ignored path="$PROJECT_DIR$/chapter11/target/" />
     <ignored path="$PROJECT_DIR$/Thinking-In-Java/target/" />
+    <ignored path="$PROJECT_DIR$/Thinking-in-Java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +66,8 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="69" />
-          <entry key="md" value="4" />
+          <entry key="java" value="73" />
+          <entry key="md" value="5" />
           <entry key="png" value="2" />
           <entry key="xml" value="19" />
         </counts>
@@ -74,8 +76,8 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="69" />
-          <entry key="Markdown" value="4" />
+          <entry key="JAVA" value="73" />
+          <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="19" />
         </counts>
@@ -85,17 +87,17 @@
           <entry key="dummy" value="13" />
           <entry key="ft" value="26" />
           <entry key="gitignore" value="31" />
-          <entry key="java" value="5941" />
-          <entry key="txt" value="130" />
-          <entry key="xml" value="10" />
+          <entry key="java" value="6460" />
+          <entry key="txt" value="176" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5941" />
-          <entry key="PLAIN_TEXT" value="174" />
+          <entry key="JAVA" value="6460" />
+          <entry key="PLAIN_TEXT" value="220" />
           <entry key="VTL" value="26" />
-          <entry key="XML" value="10" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -106,28 +108,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/singleton/DoubleCheckedSingleton.java">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="285">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="286">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,19 +129,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1175" column="33" lean-forward="true" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
+            <state relative-caret-position="285">
+              <caret line="19" column="49" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="19" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="218">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1175" column="33" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,7 +194,7 @@
         <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="1081" column="51" lean-forward="true" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
+              <caret line="1081" column="51" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
               <folding>
                 <element signature="e#48487#48488#0" expanded="true" />
                 <element signature="e#48531#48532#0" expanded="true" />
@@ -170,45 +204,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/io/FilenameFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-              <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/EnumSingletonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -219,8 +218,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -231,11 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter02/src/test/java/factory/pattern/simple/factory/SimpleFactoryPatternTest.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/Product.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/ProductApple.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/simple/factory/ProductOrange.java" />
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/staticfactory/method/FlyweightPattern.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Operation.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/FactoryMethodPattern.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/DivFactory.java" />
@@ -282,6 +276,11 @@
         <option value="$PROJECT_DIR$/Thinking-In-Java/pom.xml" />
         <option value="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java" />
         <option value="$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java" />
       </list>
     </option>
   </component>
@@ -300,17 +299,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="effective-java-thinking" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="effective-java-thinking" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -340,25 +329,25 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -366,7 +355,7 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -375,19 +364,12 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="file" type="462c0819:PsiDirectoryNode" />
               <item name="dir" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,7 +380,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540365648383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540369746034" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -410,11 +392,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="file.dir" />
       <recent name="singleton" />
       <recent name="builder.pattern" />
       <recent name="java.beans" />
       <recent name="factory.pattern.abstractfactory" />
-      <recent name="factory.pattern.factory.method" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter02/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter02/src/main/java/beans" />
@@ -423,15 +414,116 @@
       <recent name="$PROJECT_DIR$/chapter01" />
       <recent name="$PROJECT_DIR$/chapter02/docs" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="factory" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chapter02/src/main/resources" />
-    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/chapter02/docs/第3条:用私有构造器或枚举类型强化Singleton属性.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -445,16 +537,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DirList">
+  <component name="RunManager" selected="JUnit.DirList2Test.sortAndPrintFileName">
     <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="file.dir.DirList" />
-      <module name="Thinking-In-Java" />
+      <module name="Thinking-in-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="file.dir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirList2Test.sortAndPrintFileName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.dir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="file.dir" />
+      <option name="MAIN_CLASS_NAME" value="file.dir.DirList2Test" />
+      <option name="METHOD_NAME" value="sortAndPrintFileName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirListTest.sortAndPrintFileName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Thinking-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.dir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="file.dir" />
+      <option name="MAIN_CLASS_NAME" value="file.dir.DirListTest" />
+      <option name="METHOD_NAME" value="sortAndPrintFileName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -469,22 +593,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="singleton" />
       <option name="MAIN_CLASS_NAME" value="singleton.EnumSingletonTest" />
-      <option name="METHOD_NAME" value="print" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonWithFinalFieldTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="singleton" />
-      <option name="MAIN_CLASS_NAME" value="singleton.SingletonWithFinalFieldTest" />
       <option name="METHOD_NAME" value="print" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -507,36 +615,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="builder.pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="builder.pattern" />
-      <option name="MAIN_CLASS_NAME" value="builder.pattern.StudentTest" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.StudentTest.client" />
-      <item itemvalue="JUnit.SingletonWithFinalFieldTest.print" />
       <item itemvalue="JUnit.SingletonWithStaticFactoryTest.print" />
       <item itemvalue="JUnit.EnumSingletonTest.print" />
       <item itemvalue="Application.DirList" />
+      <item itemvalue="JUnit.DirListTest.sortAndPrintFileName" />
+      <item itemvalue="JUnit.DirList2Test.sortAndPrintFileName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DirList2Test.sortAndPrintFileName" />
+        <item itemvalue="JUnit.DirListTest.sortAndPrintFileName" />
         <item itemvalue="Application.DirList" />
         <item itemvalue="JUnit.EnumSingletonTest.print" />
         <item itemvalue="JUnit.SingletonWithStaticFactoryTest.print" />
-        <item itemvalue="JUnit.SingletonWithFinalFieldTest.print" />
-        <item itemvalue="JUnit.StudentTest.client" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +660,7 @@
       <workItem from="1540198534646" duration="1205000" />
       <workItem from="1540279023399" duration="5749000" />
       <workItem from="1540291140012" duration="3197000" />
-      <workItem from="1540362368662" duration="3271000" />
+      <workItem from="1540362368662" duration="7213000" />
     </task>
     <task id="LOCAL-00001" summary="github license">
       <created>1539742825302</created>
@@ -682,43 +774,57 @@
       <option name="project" value="LOCAL" />
       <updated>1540294532108</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="加入《Java编程思想》有关I/O的学习">
+      <created>1540365774898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540365774898</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit changes">
+      <created>1540366330332</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540366330332</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleFactoryPatternTest_create - 2018.10.17 at 17h 09m 33s.xml">
-      <configuration name="SimpleFactoryPatternTest.create" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 46m 55s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FactoryMethodPatternTest_createOperation - 2018.10.17 at 20h 40m 49s.xml">
-      <configuration name="FactoryMethodPatternTest.createOperation" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 48m 38s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AbstractFactoryPatternTest_main - 2018.10.17 at 22h 12m 41s.xml">
-      <configuration name="AbstractFactoryPatternTest.main" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 57m 36s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentTest_test - 2018.10.18 at 16h 31m 30s.xml">
-      <configuration name="StudentTest.test" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 57m 56s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentTest_test_(1) - 2018.10.18 at 16h 35m 44s.xml">
-      <configuration name="StudentTest.test (1)" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 05m 57s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentTest_client - 2018.10.18 at 17h 12m 08s.xml">
-      <configuration name="StudentTest.client" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 06m 27s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonWithFinalFieldTest_print - 2018.10.23 at 16h 37m 20s.xml">
-      <configuration name="SingletonWithFinalFieldTest.print" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 07m 06s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonWithStaticFactoryTest_print - 2018.10.23 at 16h 52m 49s.xml">
-      <configuration name="SingletonWithStaticFactoryTest.print" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 07m 24s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingletonWithStaticFactoryTest_print - 2018.10.23 at 16h 54m 49s.xml">
-      <configuration name="SingletonWithStaticFactoryTest.print" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 20m 53s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EnumSingletonTest_print - 2018.10.23 at 17h 03m 06s.xml">
-      <configuration name="EnumSingletonTest.print" configurationId="JUnit" />
+    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 16h 21m 19s.xml">
+      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53717000" />
+    <option name="totallyTimeSpent" value="57659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -733,8 +839,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3995657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946523" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -753,6 +859,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32994652" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4961998" visible="true" weight="0.28181818" />
+      <window_info id="Structure" order="1" sideWeight="0.5038002" side_tool="true" weight="0.27540106" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49893048" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106955" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32994652" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -765,63 +901,32 @@
     <MESSAGE value="简单工厂模式" />
     <MESSAGE value="工厂方法模式" />
     <MESSAGE value="抽象工厂模式" />
-    <MESSAGE value="commit changes" />
     <MESSAGE value="多个构造器参数解决思路" />
     <MESSAGE value="第3条" />
     <MESSAGE value="syb" />
-    <option name="LAST_COMMIT_MESSAGE" value="syb" />
+    <MESSAGE value="加入《Java编程思想》有关I/O的学习" />
+    <MESSAGE value="commit changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java</url>
+          <line>13</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter02/docs/第1条:考虑用静态工厂方法代替构造器.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/factory/factorymethod/FactoryMethodPatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/AddFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/SubFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/MulFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/DivFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1087,13 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/src/test/java/singleton/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1102,13 +1200,6 @@
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -1122,7 +1213,7 @@
     <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="1081" column="51" lean-forward="true" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
+          <caret line="1081" column="51" selection-start-line="1081" selection-start-column="51" selection-end-line="1081" selection-end-column="51" />
           <folding>
             <element signature="e#48487#48488#0" expanded="true" />
             <element signature="e#48531#48532#0" expanded="true" />
@@ -1130,30 +1221,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1175" column="33" lean-forward="true" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
+          <caret line="1175" column="33" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-In-Java/src/main/java/file/dir/DirList.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="361">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
