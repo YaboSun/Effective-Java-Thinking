@@ -17,9 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,8 +61,8 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="74" />
-          <entry key="md" value="5" />
+          <entry key="java" value="77" />
+          <entry key="md" value="6" />
           <entry key="png" value="2" />
           <entry key="xml" value="19" />
         </counts>
@@ -72,8 +71,8 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="74" />
-          <entry key="Markdown" value="5" />
+          <entry key="JAVA" value="77" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="19" />
         </counts>
@@ -83,14 +82,14 @@
           <entry key="dummy" value="13" />
           <entry key="ft" value="26" />
           <entry key="gitignore" value="31" />
-          <entry key="java" value="6727" />
+          <entry key="java" value="6877" />
           <entry key="txt" value="191" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6727" />
+          <entry key="JAVA" value="6877" />
           <entry key="PLAIN_TEXT" value="235" />
           <entry key="VTL" value="26" />
           <entry key="XML" value="11" />
@@ -104,107 +103,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="304">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="49" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList3Test.java">
+        <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1175" column="33" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -215,8 +133,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -227,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/DivFactory.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Add.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Mul.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Sub.java" />
@@ -274,10 +191,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirListTest.java" />
-        <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java" />
-        <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList3Test.java" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java" />
+        <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java" />
+        <option value="$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java" />
       </list>
     </option>
   </component>
@@ -301,6 +219,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
     <option name="y" value="-4" />
     <option name="width" value="1920" />
     <option name="height" value="1084" />
@@ -326,71 +245,34 @@
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="dir" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dir" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540370502855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540453365645" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -681,7 +563,7 @@
       <workItem from="1540198534646" duration="1205000" />
       <workItem from="1540279023399" duration="5749000" />
       <workItem from="1540291140012" duration="3197000" />
-      <workItem from="1540362368662" duration="8125000" />
+      <workItem from="1540362368662" duration="13861000" />
     </task>
     <task id="LOCAL-00001" summary="github license">
       <created>1539742825302</created>
@@ -816,13 +698,24 @@
       <option name="project" value="LOCAL" />
       <updated>1540369850553</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit changes">
+      <created>1540370621310</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540370621310</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit changes">
+      <created>1540452728197</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1540452728197</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 48m 38s.xml">
-      <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DirListTest_sortAndPrintFileName - 2018.10.24 at 15h 57m 36s.xml">
       <configuration name="DirListTest.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
@@ -850,12 +743,15 @@
     <history-entry file="DirList2Test_sortAndPrintFileName - 2018.10.24 at 16h 26m 39s.xml">
       <configuration name="DirList2Test.sortAndPrintFileName" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DirList3Test_sortAndPrintFileName - 2018.10.24 at 16h 41m 45s.xml">
+      <configuration name="DirList3Test.sortAndPrintFileName" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58571000" />
+    <option name="totallyTimeSpent" value="64307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4961998" visible="true" weight="0.28181818" />
@@ -867,7 +763,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005429" side_tool="true" weight="0.24973261" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -955,20 +851,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Sub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/factorymethod/Div.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1242,27 +1124,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1175" column="33" selection-start-line="1175" selection-start-column="33" selection-end-line="1175" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1271,53 +1132,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="1192" column="33" lean-forward="true" selection-start-line="1192" selection-start-column="33" selection-end-line="1192" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java">
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="209">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#532#533#0" expanded="true" />
             <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1329,10 +1177,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList3Test.java">
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="521">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirList2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/docs/第4条:通过私有构造器强化不可实例化的能力.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
