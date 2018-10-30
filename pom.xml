@@ -20,6 +20,7 @@
         <module>chapter10</module>
         <module>chapter11</module>
         <module>Thinking-in-Java</module>
+        <module>Dark-Horse-Javase</module>
     </modules>
 
     <dependencies>
