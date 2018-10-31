@@ -46,7 +46,7 @@ public class Test {
          *
          * 给定一个值 输出对应星期
          */
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个1-7的数值");
         int x = sc.nextInt();
         switch (x) {
@@ -73,6 +73,29 @@ public class Test {
                 break;
             default:
                 break;
-        }
+        }*/
+
+        /**
+         * 测试循环语句使用
+         *
+         * 水仙花数
+         */
+
+        /*for (int i = 100; i < 1000; i++) {
+            int a = i % 10;
+            int b = i / 10 % 10;
+            int c = i / 100;
+            if (((a * a * a) + (b * b * b) + (c * c * c)) == i) {
+                System.out.println(i);
+            }
+        }*/
+
+        /**
+         * 字面值存放在栈中 并可以共享
+         */
+        /*int a = 3;
+        int b = 3;
+        System.out.println("a = " + a + "b = " + b);*/
+
     }
 }

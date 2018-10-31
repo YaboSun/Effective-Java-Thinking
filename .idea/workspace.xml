@@ -16,12 +16,10 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dark-Horse-Javase/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="72a7347d-71df-43c2-9dd0-5b880c1a4a38" name="Default Changelist" comment="commit changes">
+      <change afterPath="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/array/GetMaxArrayElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,7 +63,7 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="83" />
+          <entry key="java" value="85" />
           <entry key="md" value="8" />
           <entry key="png" value="2" />
           <entry key="xml" value="20" />
@@ -75,7 +73,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="85" />
           <entry key="Markdown" value="8" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="20" />
@@ -86,14 +84,14 @@
           <entry key="dummy" value="13" />
           <entry key="ft" value="26" />
           <entry key="gitignore" value="31" />
-          <entry key="java" value="8400" />
+          <entry key="java" value="8712" />
           <entry key="txt" value="191" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8400" />
+          <entry key="JAVA" value="8712" />
           <entry key="PLAIN_TEXT" value="235" />
           <entry key="VTL" value="26" />
           <entry key="XML" value="11" />
@@ -106,18 +104,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/DirFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,8 +157,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            <state relative-caret-position="711">
+              <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/array/GetMaxArrayElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -239,7 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/Div.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/AddFactory.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/MulFactory.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/factory/pattern/factory/method/SubFactory.java" />
@@ -289,6 +292,7 @@
         <option value="$PROJECT_DIR$/chapter02/src/main/java/util/UtilityClass.java" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/main/java/file/dir/Directory.java" />
         <option value="$PROJECT_DIR$/Thinking-in-Java/src/test/java/file/dir/DirectoryTest.java" />
+        <option value="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/array/GetMaxArrayElement.java" />
         <option value="$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java" />
       </list>
     </option>
@@ -350,6 +354,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="Dark-Horse-Javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Effective-Java-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Effective-Java-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinking-in-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -362,7 +392,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540893937379" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540954691104" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -637,7 +667,7 @@
       <workItem from="1540279023399" duration="5749000" />
       <workItem from="1540291140012" duration="3197000" />
       <workItem from="1540362368662" duration="16993000" />
-      <workItem from="1540779357738" duration="15088000" />
+      <workItem from="1540779357738" duration="22682000" />
     </task>
     <task id="LOCAL-00001" summary="github license">
       <created>1539742825302</created>
@@ -807,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540781511413</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="commit changes">
+      <created>1540893954554</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1540893954554</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -843,7 +880,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82527000" />
+    <option name="totallyTimeSpent" value="90121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -942,24 +979,16 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/AbstractFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/src/main/java/factory/abstractfactory/FactoryProducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1331,10 +1360,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/array/GetMaxArrayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dark-Horse-Javase/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        <state relative-caret-position="711">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
         </state>
       </provider>
     </entry>
