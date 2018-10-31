@@ -97,5 +97,16 @@ public class Test {
         int b = 3;
         System.out.println("a = " + a + "b = " + b);*/
 
+        /**
+         * 二维数组使用demo
+         */
+        int[][] arr = {{22,66,44}, {77,33,88}, {25,45,65}, {11,66,99}};
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                sum += arr[i][j];
+            }
+        }
+        System.out.println(sum);
     }
 }
