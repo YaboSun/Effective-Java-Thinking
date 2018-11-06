@@ -5,7 +5,6 @@ import java.util.Scanner;
  */
 public class Test {
     public static void main(String[] args) {
-
         /**
          * 测试byte运算
          */
@@ -109,11 +108,48 @@ public class Test {
         }
         System.out.println(sum);*/
 
-        Person.country = "中国";
+//        Person.country = "中国";
 
+        /**
+         * 测试double 结果不是0.9
+         */
+//        System.out.println(2.0 - 1.1);
+
+       /* double x = 9.97;
+        System.out.println(Math.round(x));*/
+
+        /**
+         * 测试String方法
+         * 1、返回指定索引的ascii码 l -> 108
+         */
+        /*String string = "hello world";
+        int a = string.codePointAt(3);
+        System.out.println(a);*/
+
+        /**
+         * 测试StringBuilder使用
+         */
+        String s = "sssfff";
+        StringBuilder stringBuilder = new StringBuilder("hello world");
+
+        System.out.println(stringBuilder);
+        System.out.println(stringBuilder + s);
+        System.out.println(stringBuilder.indexOf("h", 3));
+
+        String s1 = "ab";
+        String s2 = "abc";
+        String s3 = s1 + "c";
+        System.out.println(s2 == s3); // false因为在内存中的地址不同
+        System.out.println(s2.equals(s3)); // true对应的字符串内容相等
+
+        /**
+         * foreach使用
+         */
+        int[] arr = {1, 2, 3, 5, 5, 4, 3};
+        for (int i : arr) {
+            System.out.println(i);
+        }
     }
-
-
 }
 
 class Person {
