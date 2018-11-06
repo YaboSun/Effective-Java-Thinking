@@ -7,16 +7,19 @@ package innerclass;
  */
 public class AnonymousInnerClass {
 
-    public InnerClass getInnerClass(final int num, String string2) {
+    // 注意final关键字
+    public InnerClass getInnerClass(final int num, final String string) {
         return new InnerClass() {
             int number = num;
-            public int getNumber() {
-                return number;
+            public void getNum() {
+                System.out.println("num is " + number);
+            }
+
+            public void print() {
+                System.out.println("string is " + string);
             }
         };
     }
 
 }
 
-interface InnerClass {
-}

@@ -15,5 +15,7 @@ public class AnonymousInnerClassTest {
         String string = "this is anonymous class test";
         AnonymousInnerClass anonymousInnerClass = new AnonymousInnerClass();
         InnerClass innerClass = anonymousInnerClass.getInnerClass(number, string);
+        innerClass.getNum();
+        innerClass.print();
     }
 }
