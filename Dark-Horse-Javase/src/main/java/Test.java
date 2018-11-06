@@ -149,6 +149,16 @@ public class Test {
         for (int i : arr) {
             System.out.println(i);
         }
+        StringBuilder stringBuilder1 = new StringBuilder("[");
+        for (int i = 0; i < arr.length; i++) {
+            if (i == arr.length - 1) {
+                stringBuilder1 = stringBuilder1.append(arr[i] + "]");
+            } else {
+                stringBuilder1 = stringBuilder1.append(arr[i] + ",");
+            }
+        }
+
+        System.out.println(stringBuilder1);
     }
 }
 
